@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rodrigo Souza dos Santos</title>
+    <description>A free, fast Astro 7 starter theme to build anything on: 44 designed components, 12 colour themes, dark mode, and built-in i18n.</description>
+    <link>https://rodrigosouzadossantos.github.io</link>
+    <atom:link href="https://rodrigosouzadossantos.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <language>en</language>
+    <lastBuildDate>Tue, 18 Aug 2026 04:07:46 GMT</lastBuildDate>
+    <item>
+      <title>Five Footer Layouts, and the One That Ships</title>
+      <link>https://rodrigosouzadossantos.github.io/blog/footer-layouts/</link>
+      <guid>https://rodrigosouzadossantos.github.io/blog/footer-layouts/</guid>
+      <description>Simple, minimal, stacked, centered and columns. The default builds its own columns from your nav, your tags and your projects, and shrinks back to a single row when a site has nothing to put in them.</description>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
+      <author>Hans Martens</author>
+      <category>astro-rocket</category>
+        <category>features</category>
+        <category>footer</category>
+        <category>navigation</category>
+        <category>customization</category>
+    </item>
+    <item>
+      <title>Newsletter Signup: Collect Subscribers</title>
+      <link>https://rodrigosouzadossantos.github.io/blog/newsletter-signup/</link>
+      <guid>https://rodrigosouzadossantos.github.io/blog/newsletter-signup/</guid>
+      <description>A signup that posts to a Resend audience, in the footer of every page. On by default, and it tells you when its keys are missing instead of waiting for a visitor to find out.</description>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
+      <author>Hans Martens</author>
+      <category>astro-rocket</category>
+        <category>features</category>
+        <category>newsletter</category>
+        <category>resend</category>
+        <category>forms</category>
+    </item>
+    <item>
+      <title>Umami Analytics: Cookieless, Built In</title>
+      <link>https://rodrigosouzadossantos.github.io/blog/umami-analytics/</link>
+      <guid>https://rodrigosouzadossantos.github.io/blog/umami-analytics/</guid>
+      <description>Umami works out of the box: private, cookieless web analytics. Set one environment variable and you get visitor numbers with no cookie banner.</description>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 GMT</pubDate>
+      <author>Hans Martens</author>
+      <category>astro-rocket</category>
+        <category>features</category>
+        <category>analytics</category>
+        <category>umami</category>
+        <category>privacy</category>
+    </item>
+    <item>
+      <title>Updating Without Losing Your Content</title>
+      <link>https://rodrigosouzadossantos.github.io/blog/updating-astro-rocket/</link>
+      <guid>https://rodrigosouzadossantos.github.io/blog/updating-astro-rocket/</guid>
+      <description>Astro Rocket is installed with git clone, so updating is a git merge rather than an npm install. Here&apos;s the safe, reversible way to do it.</description>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 GMT</pubDate>
+      <author>Hans Martens</author>
+      <category>astro-rocket</category>
+        <category>tutorial</category>
+        <category>git</category>
+        <category>maintenance</category>
+    </item>
+    <item>
+      <title>The Click-to-Play YouTube Embed</title>
+      <link>https://rodrigosouzadossantos.github.io/blog/youtube-embeds/</link>
+      <guid>https://rodrigosouzadossantos.github.io/blog/youtube-embeds/</guid>
+      <description>Embed a YouTube video with one component. The page ships only a thumbnail; the player loads from youtube-nocookie.com on play, so Lighthouse stays at 100.</description>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+      <author>Hans Martens</author>
+      <category>astro-rocket</category>
+        <category>features</category>
+        <category>components</category>
+        <category>performance</category>
+    </item>
+    <item>
+      <title>Video Slides in Project Galleries</title>
+      <link>https://rodrigosouzadossantos.github.io/blog/project-gallery-video-slides/</link>
+      <guid>https://rodrigosouzadossantos.github.io/blog/project-gallery-video-slides/</guid>
+      <description>Project carousels now accept self-hosted video slides next to images. Here&apos;s how to use them, how they work, and why they don&apos;t cost a single Lighthouse point.</description>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
+      <author>Hans Martens</author>
+      <category>astro-rocket</category>
+        <category>features</category>
+        <category>projects</category>
+        <category>performance</category>
+    </item>
+    <item>
+      <title>Set a Custom Logo and Site Name</title>
+      <link>https://rodrigosouzadossantos.github.io/blog/custom-logo-and-site-name/</link>
+      <guid>https://rodrigosouzadossantos.github.io/blog/custom-logo-and-site-name/</guid>
+      <description>Swap the auto-generated monogram for your own logo, rename your site, and choose a logo-with-wordmark or logo-only header — mostly from one config file.</description>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
+      <author>Hans Martens</author>
+      <category>astro-rocket</category>
+        <category>branding</category>
+        <category>logo</category>
+        <category>customization</category>
+    </item>
+    <item>
+      <title>The Stack Marquee: A Pure-CSS Tech Strip</title>
+      <link>https://rodrigosouzadossantos.github.io/blog/stack-marquee/</link>
+      <guid>https://rodrigosouzadossantos.github.io/blog/stack-marquee/</guid>
+      <description>Two rows of tech-stack cards scrolling opposite ways with no JavaScript. How the homepage marquee loop works, and why it is hidden on phones.</description>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
+      <author>Hans Martens</author>
+      <category>astro-rocket</category>
+        <category>animation</category>
+        <category>css</category>
+        <category>components</category>
+        <category>ux</category>
+        <category>performance</category>
+    </item>
+    <item>
+      <title>Going Multilingual with Native i18n</title>
+      <link>https://rodrigosouzadossantos.github.io/blog/i18n-in-astro-rocket/</link>
+      <guid>https://rodrigosouzadossantos.github.io/blog/i18n-in-astro-rocket/</guid>
+      <description>How the opt-in i18n works: locale routing, the t()/tData() dictionary, an auto-localized blog, projects and pages, and how to ship a multilingual site.</description>
+      <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
+      <author>Hans Martens</author>
+      <category>astro-rocket</category>
+        <category>i18n</category>
+        <category>internationalization</category>
+        <category>tutorial</category>
+    </item>
+    <item>
+      <title>Blog Comments: Giscus, Cusdis or Artalk</title>
+      <link>https://rodrigosouzadossantos.github.io/blog/giscus-comments/</link>
+      <guid>https://rodrigosouzadossantos.github.io/blog/giscus-comments/</guid>
+      <description>Astro Rocket&apos;s blog comments are pluggable: pick Giscus, Cusdis, or the fully self-hosted Artalk. All three lazy-load on scroll — skip them and you pay nothing.</description>
+      <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+      <author>Hans Martens</author>
+      <category>astro-rocket</category>
+        <category>features</category>
+        <category>blog</category>
+        <category>comments</category>
+        <category>giscus</category>
+        <category>cusdis</category>
+        <category>artalk</category>
+    </item>
+    <item>
+      <title>A Footer Menu Separate From the Header</title>
+      <link>https://rodrigosouzadossantos.github.io/blog/independent-footer-menu/</link>
+      <guid>https://rodrigosouzadossantos.github.io/blog/independent-footer-menu/</guid>
+      <description>Configure the footer menu independently of the header navigation: add a Privacy link, an Imprint, or a Cookie Policy without cluttering your main nav.</description>
+      <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+      <author>Hans Martens</author>
+      <category>astro-rocket</category>
+        <category>features</category>
+        <category>footer</category>
+        <category>navigation</category>
+    </item>
+    <item>
+      <title>Table of Contents for Long Posts</title>
+      <link>https://rodrigosouzadossantos.github.io/blog/table-of-contents/</link>
+      <guid>https://rodrigosouzadossantos.github.io/blog/table-of-contents/</guid>
+      <description>An optional TOC on blog posts in three layouts — inline card, sticky sidebar, or both — with the sidebar on the left or right. Pick what fits your audience.</description>
+      <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+      <author>Hans Martens</author>
+      <category>astro-rocket</category>
+        <category>features</category>
+        <category>blog</category>
+        <category>navigation</category>
+    </item>
+    <item>
+      <title>System, Light, Dark: How Colour Mode Works</title>
+      <link>https://rodrigosouzadossantos.github.io/blog/colour-mode-system/</link>
+      <guid>https://rodrigosouzadossantos.github.io/blog/colour-mode-system/</guid>
+      <description>A 3-state colour mode with no flash, live OS-preference tracking, and a pill dropdown that respects what the user picked. Here is how it is built.</description>
+      <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
+      <author>Hans Martens</author>
+      <category>astro-rocket</category>
+        <category>dark-mode</category>
+        <category>design-system</category>
+        <category>ux</category>
+        <category>tutorial</category>
+    </item>
+    <item>
+      <title>Add a LetterGlitch Effect to Astro 7</title>
+      <link>https://rodrigosouzadossantos.github.io/blog/letter-glitch-astro-7/</link>
+      <guid>https://rodrigosouzadossantos.github.io/blog/letter-glitch-astro-7/</guid>
+      <description>How to drop a brand-tinted LetterGlitch canvas effect into an Astro 7 project: the full component, an Astro wrapper, and the production-ready details.</description>
+      <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
+      <author>Hans Martens</author>
+      <category>astro-rocket</category>
+        <category>astro</category>
+        <category>react</category>
+        <category>canvas</category>
+        <category>tutorial</category>
+    </item>
+    <item>
+      <title>Getting Started: From Install to Live</title>
+      <link>https://rodrigosouzadossantos.github.io/blog/astro-rocket-getting-started/</link>
+      <guid>https://rodrigosouzadossantos.github.io/blog/astro-rocket-getting-started/</guid>
+      <description>How to install, configure, and deploy Astro Rocket — covering site.config.ts, brand colours, navigation, writing posts, and deploying to Vercel.</description>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <author>Hans Martens</author>
+      <category>astro-rocket</category>
+        <category>getting-started</category>
+        <category>configuration</category>
+        <category>vercel</category>
+    </item>
+    <item>
+      <title>Every Configuration Toggle, Theme and Layout</title>
+      <link>https://rodrigosouzadossantos.github.io/blog/astro-rocket-configuration-guide/</link>
+      <guid>https://rodrigosouzadossantos.github.io/blog/astro-rocket-configuration-guide/</guid>
+      <description>A walkthrough of every configuration option: 12 colour themes, OKLCH colours, typography, radius and shadow tokens, header styles, and dark mode.</description>
+      <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
+      <author>Hans Martens</author>
+      <category>astro-rocket</category>
+        <category>configuration</category>
+        <category>customization</category>
+        <category>themes</category>
+    </item>
+    <item>
+      <title>Animations: How the Motion Design Works</title>
+      <link>https://rodrigosouzadossantos.github.io/blog/animations-in-astro-rocket/</link>
+      <guid>https://rodrigosouzadossantos.github.io/blog/animations-in-astro-rocket/</guid>
+      <description>Every animation layer in Astro Rocket: the ease-out hero entrance, the staggered scroll-reveal cascade, and how it stays smooth with no JS animation library.</description>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
+      <author>Hans Martens</author>
+      <category>astro-rocket</category>
+        <category>animation</category>
+        <category>css</category>
+        <category>ux</category>
+        <category>performance</category>
+    </item>
+    <item>
+      <title>44 Components Ready to Use</title>
+      <link>https://rodrigosouzadossantos.github.io/blog/component-library/</link>
+      <guid>https://rodrigosouzadossantos.github.io/blog/component-library/</guid>
+      <description>A 44-component UI library: buttons, cards, dialogs, forms, data display, and full page-structure components. All accessible, all themed.</description>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
+      <author>Hans Martens</author>
+      <category>astro-rocket</category>
+        <category>components</category>
+        <category>ui</category>
+        <category>velocity</category>
+    </item>
+    <item>
+      <title>SEO: What&apos;s Built In and How to Configure It</title>
+      <link>https://rodrigosouzadossantos.github.io/blog/seo-in-astro-rocket/</link>
+      <guid>https://rodrigosouzadossantos.github.io/blog/seo-in-astro-rocket/</guid>
+      <description>Astro Rocket handles structured data, Open Graph, canonical URLs, sitemaps, and more out of the box. Here&apos;s exactly what ships and where to configure it.</description>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
+      <author>Hans Martens</author>
+      <category>astro-rocket</category>
+        <category>seo</category>
+        <category>structured-data</category>
+        <category>tutorial</category>
+        <category>configuration</category>
+    </item>
+    <item>
+      <title>Hero Scroll Indicator: Hides on Scroll</title>
+      <link>https://rodrigosouzadossantos.github.io/blog/hero-scroll-indicator/</link>
+      <guid>https://rodrigosouzadossantos.github.io/blog/hero-scroll-indicator/</guid>
+      <description>Two bouncing chevrons that fade in after the hero animation and disappear the moment you start scrolling. How every part of the indicator works.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+      <author>Hans Martens</author>
+      <category>astro-rocket</category>
+        <category>features</category>
+        <category>ux</category>
+        <category>animation</category>
+    </item>
+    <item>
+      <title>A Progress Ring on the Back-to-Top Button</title>
+      <link>https://rodrigosouzadossantos.github.io/blog/scroll-progress-ring/</link>
+      <guid>https://rodrigosouzadossantos.github.io/blog/scroll-progress-ring/</guid>
+      <description>The back-to-top button has a circular SVG ring that fills as you scroll: brand-coloured, theme-aware, and built from CSS and a small inline script.</description>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
+      <author>Hans Martens</author>
+      <category>astro-rocket</category>
+        <category>features</category>
+        <category>ux</category>
+        <category>animation</category>
+    </item>
+    <item>
+      <title>Contact Form Setup: Resend, Vercel, GoDaddy</title>
+      <link>https://rodrigosouzadossantos.github.io/blog/contact-form-resend-setup/</link>
+      <guid>https://rodrigosouzadossantos.github.io/blog/contact-form-resend-setup/</guid>
+      <description>The contact form is wired up but needs three things to deliver email: a Resend account, a verified domain, and one environment variable on Vercel.</description>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
+      <author>Hans Martens</author>
+      <category>astro-rocket</category>
+        <category>tutorial</category>
+        <category>email</category>
+        <category>vercel</category>
+        <category>deployment</category>
+    </item>
+    <item>
+      <title>The Scroll Progress Bar</title>
+      <link>https://rodrigosouzadossantos.github.io/blog/scroll-progress-bar/</link>
+      <guid>https://rodrigosouzadossantos.github.io/blog/scroll-progress-bar/</guid>
+      <description>A thin brand-coloured line that fills as you scroll. How the progress bar works, where it lives, and how to enable it on any page.</description>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
+      <author>Hans Martens</author>
+      <category>astro-rocket</category>
+        <category>features</category>
+        <category>header</category>
+        <category>ux</category>
+    </item>
+    <item>
+      <title>The Design System: Tokens, Colours, Dark Mode</title>
+      <link>https://rodrigosouzadossantos.github.io/blog/design-system-color-tokens/</link>
+      <guid>https://rodrigosouzadossantos.github.io/blog/design-system-color-tokens/</guid>
+      <description>Astro Rocket uses a three-tier token architecture with OKLCH colors. Change one value and the entire site updates. Here&apos;s how it works and how to make it yours.</description>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
+      <author>Hans Martens</author>
+      <category>astro-rocket</category>
+        <category>design-system</category>
+        <category>tailwind</category>
+        <category>customization</category>
+        <category>tutorial</category>
+    </item>
+    <item>
+      <title>The Hero Typing Effect: How to Tune It</title>
+      <link>https://rodrigosouzadossantos.github.io/blog/hero-typing-effect/</link>
+      <guid>https://rodrigosouzadossantos.github.io/blog/hero-typing-effect/</guid>
+      <description>The hero headline cycles through words with a typing animation. How it works, how to tune every speed and pause, and how to turn it off.</description>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
+      <author>Hans Martens</author>
+      <category>astro-rocket</category>
+        <category>components</category>
+        <category>customization</category>
+        <category>tutorial</category>
+        <category>javascript</category>
+    </item>
+  </channel>
+</rss>

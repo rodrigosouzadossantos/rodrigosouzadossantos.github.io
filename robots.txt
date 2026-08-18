@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Block API routes
+Disallow: /api/
+
+# Plain-Markdown map of this site for language models — see https://llmstxt.org
+# LLM map: https://rodrigosouzadossantos.github.io/llms.txt
+
+Sitemap: https://rodrigosouzadossantos.github.io/sitemap-index.xml

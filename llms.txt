@@ -1,0 +1,58 @@
+# Rodrigo Souza dos Santos
+
+> A free, fast Astro 7 starter theme to build anything on: 44 designed components, 12 colour themes, dark mode, and built-in i18n.
+
+## Pages
+
+- [Home](https://rodrigosouzadossantos.github.io/)
+- [Services](https://rodrigosouzadossantos.github.io/services)
+- [About](https://rodrigosouzadossantos.github.io/about)
+- [Contact](https://rodrigosouzadossantos.github.io/contact)
+- [Components](https://rodrigosouzadossantos.github.io/components): Every component in the theme, rendered, with its props and variants
+
+## Projects
+
+- [Astro Rocket Theme](https://rodrigosouzadossantos.github.io/projects/astro-rocket): My free, open-source Astro 7 starter theme to build anything on: 44 designed components, 12 colour themes, and 100/100/100/100 Lighthouse out of the box.
+- [Studio Portfolio](https://rodrigosouzadossantos.github.io/projects/studio-portfolio): Complete redesign of a creative studio's portfolio — fast, focused, and built to convert visitors into clients.
+- [SaaS Landing Page](https://rodrigosouzadossantos.github.io/projects/saas-landing): Marketing site for a B2B analytics platform — clear messaging, fast load times, and a conversion-focused layout.
+- [Component Library](https://rodrigosouzadossantos.github.io/projects/component-library): An open-source set of accessible, themeable UI components — built with Astro and Tailwind CSS, documented with live examples.
+- [Blog Starter](https://rodrigosouzadossantos.github.io/projects/blog-starter): A minimal, opinionated blog starter built on Astro — fast by default, with MDX support, RSS, dark mode, and a clean reading experience.
+- [E-Commerce Store](https://rodrigosouzadossantos.github.io/projects/ecommerce-store): Custom storefront for an independent fashion brand — product pages, cart, and checkout built for performance and a smooth mobile experience.
+- [Documentation Site](https://rodrigosouzadossantos.github.io/projects/docs-site): Developer docs for an open-source CLI tool — versioned content, full-text search, and a clean reading experience across all screen sizes.
+
+## Blog posts
+
+- [Five Footer Layouts, and the One That Ships](https://rodrigosouzadossantos.github.io/blog/footer-layouts): Simple, minimal, stacked, centered and columns. The default builds its own columns from your nav, your tags and your projects, and shrinks back to a single row when a site has nothing to put in them.
+- [Newsletter Signup: Collect Subscribers](https://rodrigosouzadossantos.github.io/blog/newsletter-signup): A signup that posts to a Resend audience, in the footer of every page. On by default, and it tells you when its keys are missing instead of waiting for a visitor to find out.
+- [Umami Analytics: Cookieless, Built In](https://rodrigosouzadossantos.github.io/blog/umami-analytics): Umami works out of the box: private, cookieless web analytics. Set one environment variable and you get visitor numbers with no cookie banner.
+- [Updating Without Losing Your Content](https://rodrigosouzadossantos.github.io/blog/updating-astro-rocket): Astro Rocket is installed with git clone, so updating is a git merge rather than an npm install. Here's the safe, reversible way to do it.
+- [The Click-to-Play YouTube Embed](https://rodrigosouzadossantos.github.io/blog/youtube-embeds): Embed a YouTube video with one component. The page ships only a thumbnail; the player loads from youtube-nocookie.com on play, so Lighthouse stays at 100.
+- [Video Slides in Project Galleries](https://rodrigosouzadossantos.github.io/blog/project-gallery-video-slides): Project carousels now accept self-hosted video slides next to images. Here's how to use them, how they work, and why they don't cost a single Lighthouse point.
+- [Set a Custom Logo and Site Name](https://rodrigosouzadossantos.github.io/blog/custom-logo-and-site-name): Swap the auto-generated monogram for your own logo, rename your site, and choose a logo-with-wordmark or logo-only header — mostly from one config file.
+- [The Stack Marquee: A Pure-CSS Tech Strip](https://rodrigosouzadossantos.github.io/blog/stack-marquee): Two rows of tech-stack cards scrolling opposite ways with no JavaScript. How the homepage marquee loop works, and why it is hidden on phones.
+- [Going Multilingual with Native i18n](https://rodrigosouzadossantos.github.io/blog/i18n-in-astro-rocket): How the opt-in i18n works: locale routing, the t()/tData() dictionary, an auto-localized blog, projects and pages, and how to ship a multilingual site.
+- [Blog Comments: Giscus, Cusdis or Artalk](https://rodrigosouzadossantos.github.io/blog/giscus-comments): Astro Rocket's blog comments are pluggable: pick Giscus, Cusdis, or the fully self-hosted Artalk. All three lazy-load on scroll — skip them and you pay nothing.
+- [A Footer Menu Separate From the Header](https://rodrigosouzadossantos.github.io/blog/independent-footer-menu): Configure the footer menu independently of the header navigation: add a Privacy link, an Imprint, or a Cookie Policy without cluttering your main nav.
+- [Table of Contents for Long Posts](https://rodrigosouzadossantos.github.io/blog/table-of-contents): An optional TOC on blog posts in three layouts — inline card, sticky sidebar, or both — with the sidebar on the left or right. Pick what fits your audience.
+- [System, Light, Dark: How Colour Mode Works](https://rodrigosouzadossantos.github.io/blog/colour-mode-system): A 3-state colour mode with no flash, live OS-preference tracking, and a pill dropdown that respects what the user picked. Here is how it is built.
+- [Add a LetterGlitch Effect to Astro 7](https://rodrigosouzadossantos.github.io/blog/letter-glitch-astro-7): How to drop a brand-tinted LetterGlitch canvas effect into an Astro 7 project: the full component, an Astro wrapper, and the production-ready details.
+- [Getting Started: From Install to Live](https://rodrigosouzadossantos.github.io/blog/astro-rocket-getting-started): How to install, configure, and deploy Astro Rocket — covering site.config.ts, brand colours, navigation, writing posts, and deploying to Vercel.
+- [Every Configuration Toggle, Theme and Layout](https://rodrigosouzadossantos.github.io/blog/astro-rocket-configuration-guide): A walkthrough of every configuration option: 12 colour themes, OKLCH colours, typography, radius and shadow tokens, header styles, and dark mode.
+- [Animations: How the Motion Design Works](https://rodrigosouzadossantos.github.io/blog/animations-in-astro-rocket): Every animation layer in Astro Rocket: the ease-out hero entrance, the staggered scroll-reveal cascade, and how it stays smooth with no JS animation library.
+- [44 Components Ready to Use](https://rodrigosouzadossantos.github.io/blog/component-library): A 44-component UI library: buttons, cards, dialogs, forms, data display, and full page-structure components. All accessible, all themed.
+- [SEO: What's Built In and How to Configure It](https://rodrigosouzadossantos.github.io/blog/seo-in-astro-rocket): Astro Rocket handles structured data, Open Graph, canonical URLs, sitemaps, and more out of the box. Here's exactly what ships and where to configure it.
+- [Hero Scroll Indicator: Hides on Scroll](https://rodrigosouzadossantos.github.io/blog/hero-scroll-indicator): Two bouncing chevrons that fade in after the hero animation and disappear the moment you start scrolling. How every part of the indicator works.
+- [A Progress Ring on the Back-to-Top Button](https://rodrigosouzadossantos.github.io/blog/scroll-progress-ring): The back-to-top button has a circular SVG ring that fills as you scroll: brand-coloured, theme-aware, and built from CSS and a small inline script.
+- [Contact Form Setup: Resend, Vercel, GoDaddy](https://rodrigosouzadossantos.github.io/blog/contact-form-resend-setup): The contact form is wired up but needs three things to deliver email: a Resend account, a verified domain, and one environment variable on Vercel.
+- [The Scroll Progress Bar](https://rodrigosouzadossantos.github.io/blog/scroll-progress-bar): A thin brand-coloured line that fills as you scroll. How the progress bar works, where it lives, and how to enable it on any page.
+- [The Design System: Tokens, Colours, Dark Mode](https://rodrigosouzadossantos.github.io/blog/design-system-color-tokens): Astro Rocket uses a three-tier token architecture with OKLCH colors. Change one value and the entire site updates. Here's how it works and how to make it yours.
+- [The Hero Typing Effect: How to Tune It](https://rodrigosouzadossantos.github.io/blog/hero-typing-effect): The hero headline cycles through words with a typing animation. How it works, how to tune every speed and pause, and how to turn it off.
+
+## More
+
+- [Sitemap](https://rodrigosouzadossantos.github.io/sitemap-index.xml)
+- [RSS feed](https://rodrigosouzadossantos.github.io/rss.xml)
+
+---
+
+Contact: hello@rodrigosouzadossantos.dev
